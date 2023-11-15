@@ -1,0 +1,23 @@
+body {
+    color: black;
+    background-color: antiquewhite;
+}
+
+.img {
+    height: 200px;
+    width: 250px;
+}
+
+.box {
+    margin: auto;
+    border: 3px dashed #c94c4c;
+    height: 400px;
+    width: 400px;
+    overflow: scroll;
+    align-items: center;
+    text-align: justify;
+}
+
+h1 {
+    color: #7a3b2e;
+}
